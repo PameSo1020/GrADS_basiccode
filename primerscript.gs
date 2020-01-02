@@ -1,4 +1,4 @@
-'set lat 10 25'
+'set lat 10 25               '
 'set lon -110 -85'
 'set display color white'
 'c'
